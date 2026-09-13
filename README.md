@@ -69,18 +69,19 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
 ### 🛠️ Tools & Technologies
 - [RevMan 5.4.1](revman%205.4.1%20version.png) 
 
-R — statistical analysis and data processing
-Python — data processing and analysis where applicable
-Microsoft Excel — data extraction and data management
-Git & GitHub — version control and project documentation
+- R — statistical analysis and data processing
+  
+- Microsoft Excel — data extraction and data management
+- 
+- Git & GitHub — version control and project documentation
 
 
 
 ## Screenshots
 
-### Overview Page
+### Quality of Life
 
-![Overview Page](assets/overview.png)
+![Quality of Life](overview.png)
 
 ### Portfolio Disrtribution Page
 
