@@ -76,7 +76,6 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
 - Git & GitHub — version control and project documentation
 
 
-
 ## Screenshots
 
 ### Quality of life forest plot
@@ -101,7 +100,7 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
 
 ## Author
 
-Moses Chege
+Moses Kamau Chege
 
 #### Data Analyst | SQL • Python •  R • Excel | Turning Data into Actionable Insights
 
