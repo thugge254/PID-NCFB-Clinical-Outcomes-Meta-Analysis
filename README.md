@@ -72,7 +72,7 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
 - R — statistical analysis and data processing
   
 - Microsoft Excel — data extraction and data management
-- 
+  
 - Git & GitHub — version control and project documentation
 
 
