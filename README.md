@@ -41,6 +41,8 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
 
 ### Data Used
 
-- ** Covidence Data ** (`review_780081_extracted_all_data.csv`) — extracted data from all 36 included studies. [View Review Data](data/review_780081_extracted_all_data.csv)
-- ** outcomes Data ** (preprocessed covidence data)
+- **Covidence Data** (`review_780081_extracted_all_data.csv`)
+ — extracted data from all 36 included studies. [View Review Data](data/review_780081_extracted_all_data.csv)
+  
+- **Outcomes Data** (preprocessed covidence data)
   
