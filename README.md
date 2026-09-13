@@ -79,25 +79,25 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
 
 ## Screenshots
 
-### Quality of Life Forest Plot
+### Quality of life forest plot
 
 ![Quality of Life](Quality%20of%20Life%20Forest%20plot.png)
 
-### Portfolio Disrtribution Page
+### Proportion with pneumonia forest plot
 
-![Portfolio Distribution](assets/portfolio_distribution.png)
+![Proportion with pneumonia](Proportion%20with%20Pneumonia%20Forest%20plot.png)
 
-### Predictive Insights Page
+### Annual exacerbation of NCFB forest plot
 
-![Predictive Insights](assets/predictive_insights.png)
+![Annual exacerbation of NCFB](Annual%20Exacerbations%20of%20NCFB%20Forest%20plot.png)
 
-### Loan Risk Prediction Section
+### Annual Mortality Forest Plot
 
-![Loan Risk Prediction](assets/loan_risk_prediction.png)
+![Annual mortality](Annual%20Mortality%20Forest%20plot.png)
 
-### Risk Prediction Section
+### Annual Hospitalisation Forest Plot
 
-![Predictive Insights](assets/predictive_insights.png)
+![Annual hospitalisation](Annual%20Hospitalisations%20Forest%20plot.png)
 
 ## Author
 
@@ -119,7 +119,7 @@ Moses Chege
 
 ### GitHub Repository:
 
-https://github.com/thugge254/tenakata-loan-dashboard
+[https://github.com/thugge254/PID-NCFB-Clinical-Outcomes-Meta-Analysis](https://github.com/thugge254/PID-NCFB-Clinical-Outcomes-Meta-Analysis)
 
 #### License
 
