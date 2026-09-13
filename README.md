@@ -79,9 +79,9 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
 
 ## Screenshots
 
-### Quality of Life
+### Quality of Life Forest Plot
 
-![Quality of Life](overview.png)
+![Quality of Life](Quality%20of%20Life%20Forest%20plot.png)
 
 ### Portfolio Disrtribution Page
 
