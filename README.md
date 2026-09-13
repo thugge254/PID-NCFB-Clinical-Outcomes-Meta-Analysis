@@ -45,3 +45,11 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
   
 - **Outcomes Data** (preprocessed Covidence data) — [View Outcomes Data](data/outcome%20files.xlsx)
   
+### 🧩 PEO Framework
+
+| PEO Element | Definition |
+|-------------|------------|
+| **Population** | Patients with non-cystic fibrosis bronchiectasis |
+| **Exposure** | Primary immunodeficiency / inborn errors of immunity |
+| **Outcomes** | Mortality, hospitalisation, exacerbations, FEV1 decline and quality of life |
+
