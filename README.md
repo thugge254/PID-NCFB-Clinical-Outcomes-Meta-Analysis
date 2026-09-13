@@ -53,3 +53,75 @@ _In patients with non-cystic fibrosis bronchiectasis, what are the clinical outc
 | **Exposure** | Primary immunodeficiency / inborn errors of immunity |
 | **Outcomes** | Mortality, hospitalisation, exacerbations, FEV1 decline and quality of life |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 🛠️ Tools & Technologies
+- [RevMan 5.4.1]() 
+
+R — statistical analysis and data processing
+Python — data processing and analysis where applicable
+Microsoft Excel — data extraction and data management
+Git & GitHub — version control and project documentation
+
+
+
+## Screenshots
+
+### Overview Page
+
+![Overview Page](assets/overview.png)
+
+### Portfolio Disrtribution Page
+
+![Portfolio Distribution](assets/portfolio_distribution.png)
+
+### Predictive Insights Page
+
+![Predictive Insights](assets/predictive_insights.png)
+
+### Loan Risk Prediction Section
+
+![Loan Risk Prediction](assets/loan_risk_prediction.png)
+
+### Risk Prediction Section
+
+![Predictive Insights](assets/predictive_insights.png)
+
+## Author
+
+Moses Chege
+
+#### Data Analyst | SQL • Python •  R • Excel | Turning Data into Actionable Insights
+
+#### Skills
+
+- R
+- Statistical Analysis
+- Meta-analysis
+- Systematic Reviews
+- Data Cleaning
+- Data Visualization
+- Research Analytics
+- Evidence Synthesis
+- RevMan
+
+### GitHub Repository:
+
+https://github.com/thugge254/tenakata-loan-dashboard
+
+#### License
+
+This project is open-source and available under the MIT License.
+
+
