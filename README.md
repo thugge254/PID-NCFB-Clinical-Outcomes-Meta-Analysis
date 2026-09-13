@@ -36,9 +36,11 @@ The project is divided into the following main steps:
 
 ### 🔎 Define the Research Question
 
-* In patients with non-cystic fibrosis bronchiectasis, what are the clinical outcomes associated with co-existing primary immunodeficiency, particularly annual mortality, hospitalisation, exacerbations, FEV1 decline, and quality of life? *
+_In patients with non-cystic fibrosis bronchiectasis, what are the clinical outcomes associated with co-existing primary immunodeficiency, particularly annual mortality, hospitalisation, exacerbations, FEV1 decline, and quality of life?_
 
 
-The structured research question for the review is:
+### Data Used
 
-* In patients with non-cystic fibrosis bronchiectasis, what are the clinical outcomes associated with co-existing primary immunodeficiency, particularly annual mortality, hospitalisation, exacerbations, FEV1 decline, and quality of life? *
+- Covidence Data (review_780081_extracted_all_data.csv) all the 36 review studies
+- outcomes.xlsx (preprocessed covidence data)
+  
